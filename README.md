@@ -13,10 +13,10 @@ boringssl-version_for_cocoapods_9.0.gz  openssl_boring_1h.csv  openssl-OpenSSL_1
 
 ### 相似度结果的csv文件中的格式：
 
-```python
+```
 ## 表头分别是：项目1、项目2、函数相似度
 openssl_101f	boringssl_0.9	sim_value 
-cpy_univ		cpy_bmp		1
+cpy_univ	cpy_bmp		1
 PEM_read_bio_PKCS8	PEM_read_bio_PKCS8	1
 SSL_get_fd	SSL_num_renegotiations		1
 ... ...
